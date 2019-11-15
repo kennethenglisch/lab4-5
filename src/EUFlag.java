@@ -1,3 +1,4 @@
+// why is it not working on mac?
 public class EUFlag {
 	
 	private int upperCorner = 0;
